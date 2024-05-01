@@ -55,7 +55,7 @@ public class Circulo {
         calcularPerimetro();
     }
 
-    // Método main para probar la clase
+    /* Método main para probar la clase
     public static void main(String[] args) {
         Circulo miCirculo = new Circulo("Rojo", 5.0);
         
@@ -70,6 +70,6 @@ public class Circulo {
         System.out.println("Diámetro del círculo: " + miCirculo.getDiametro());
         System.out.println("Área del círculo: " + miCirculo.getArea());
         System.out.println("Perímetro del círculo: " + miCirculo.getPerimetro());
-    }
+    }*/
 }
 
