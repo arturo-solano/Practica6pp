@@ -55,7 +55,7 @@ public class HexagonoR {
         calcularPerimetro();
     }
 
-    // Método main para probar la clase
+    /* Método main para probar la clase
     public static void main(String[] args) {
         HexagonoR miHexagono = new HexagonoR("Verde", 5.0);
         
@@ -70,6 +70,6 @@ public class HexagonoR {
         System.out.println("Lado del hexágono regular: " + miHexagono.getLado());
         System.out.println("Área del hexágono regular: " + miHexagono.getArea());
         System.out.println("Perímetro del hexágono regular: " + miHexagono.getPerimetro());
-    }
+    }*/
 }
 
