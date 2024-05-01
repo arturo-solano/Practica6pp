@@ -55,7 +55,7 @@ public class Cuadrado {
         calcularPerimetro();
     }
 
-    // Método main para probar la clase
+    /* Método main para probar la clase
     public static void main(String[] args) {
         Cuadrado miCuadrado = new Cuadrado("Azul", 5.0);
         
@@ -70,6 +70,6 @@ public class Cuadrado {
         System.out.println("Lado del cuadrado: " + miCuadrado.getLado());
         System.out.println("Área del cuadrado: " + miCuadrado.getArea());
         System.out.println("Perímetro del cuadrado: " + miCuadrado.getPerimetro());
-    }
+    }*/
 }
 
