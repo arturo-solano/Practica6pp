@@ -68,7 +68,7 @@ public class Rectangulo {
         calcularPerimetro();
     }
 
-    // Método main para probar la clase
+    /* Método main para probar la clase
     public static void main(String[] args) {
         Rectangulo miRectangulo = new Rectangulo("Azul", 5.0, 10.0);
         
@@ -86,5 +86,5 @@ public class Rectangulo {
         System.out.println("Altura del rectángulo: " + miRectangulo.getAltura());
         System.out.println("Área del rectángulo: " + miRectangulo.getArea());
         System.out.println("Perímetro del rectángulo: " + miRectangulo.getPerimetro());
-    }
+    }*/
 }
